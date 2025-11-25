@@ -1,0 +1,222 @@
+/* screen - 06u4606-error-pagina */
+
+.x06u4606-error-pagina {
+  background-color: var(--link-water);
+  min-height: 1440px;
+  min-width: 1920px;
+  position: relative;
+  width: 100%;
+}
+
+.x06u4606-error-pagina .group-149 {
+  display: flex;
+  gap: 141px;
+  height: 709px;
+  left: 240px;
+  position: absolute;
+  top: 125px;
+  width: 1441px;
+}
+
+.x06u4606-error-pagina .group-121 {
+  display: flex;
+  flex-direction: column;
+  height: 233px;
+  margin-top: 238px;
+  width: 591px;
+}
+
+.x06u4606-error-pagina .sorry-deze-pagina-k {
+  height: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 587px;
+}
+
+.x06u4606-error-pagina .error-404-geen-zorg {
+  height: 71px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 23px;
+  margin-top: 53px;
+  width: 564px;
+}
+
+.x06u4606-error-pagina .group-8 {
+  display: flex;
+  gap: 15px;
+  margin-left: 23px;
+  margin-top: 11px;
+  width: 386px;
+}
+
+.x06u4606-error-pagina .profiel {
+  align-items: center;
+  background-color: var(--blue-whale);
+  border-radius: 13px;
+  display: inline-flex;
+  gap: 10px;
+  height: 53px;
+  justify-content: center;
+  padding: 13px;
+  position: relative;
+  width: 238px;
+}
+
+.x06u4606-error-pagina .terug-naar-de-homepage {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x06u4606-error-pagina .profiel-1 {
+  align-items: center;
+  background-color: var(--blue-whale);
+  border-radius: 13px;
+  display: inline-flex;
+  gap: 10px;
+  height: 53px;
+  justify-content: center;
+  padding: 13px;
+  position: relative;
+  width: 133px;
+}
+
+.x06u4606-error-pagina .rono-it-404-pagina-1 {
+  aspect-ratio: 1;
+  height: 709px;
+  object-fit: cover;
+  width: 709px;
+}
+
+.x06u4606-error-pagina .profiel-menu-gesloten-1 {
+  background-color: var(--blue-whale);
+  display: inline-flex;
+  flex: 1;
+  width: 138px;
+}
+
+.x06u4606-error-pagina .profiel-menu-gesloten-2 {
+  background-color: var(--blue-whale);
+  display: inline-flex;
+  flex: 1;
+  width: 133px;
+}
+
+.x06u4606-error-pagina .stel-je-vraag-1 {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x06u4606-error-pagina .logo {
+  aspect-ratio: 2.62;
+  background-image: url(../img/rono-it-logo---tagline-rgb-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 66px;
+  left: 874px;
+  position: absolute;
+  top: 34px;
+  width: 173px;
+}
+
+.x06u4606-error-pagina .component-1 {
+  background-image: url(../img/rono-it-achtergrond-blauw-rgb-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 577px;
+  left: 0;
+  position: absolute;
+  top: 863px;
+  width: 1920px;
+}
+
+.x06u4606-error-pagina .x3f6bd76d-24c0-2648-4f7a-5c61faf211db-1 {
+  aspect-ratio: 2.22;
+  height: 78px;
+  left: 67.71%;
+  object-fit: cover;
+  position: absolute;
+  top: 294px;
+  width: 9.03%;
+}
+
+.x06u4606-error-pagina .x34474454-29b6-4873-9d1e-dd1434fdf18c-1 {
+  aspect-ratio: 2.22;
+  height: 77px;
+  left: 68.54%;
+  object-fit: cover;
+  position: absolute;
+  top: 384px;
+  width: 8.91%;
+}
+
+.x06u4606-error-pagina .x33f7f3f4-d3a3-62db-0eff-22e8fffcfaed-1 {
+  aspect-ratio: 2.22;
+  height: 77px;
+  left: 69.69%;
+  object-fit: cover;
+  position: absolute;
+  top: 124px;
+  width: 8.91%;
+}
+
+.x06u4606-error-pagina .x0f1a7654-951c-6193-1139-23db606c07bb-1 {
+  aspect-ratio: 2.22;
+  height: 78px;
+  left: 69.32%;
+  object-fit: cover;
+  position: absolute;
+  top: 206px;
+  width: 9.03%;
+}
+
+.x06u4606-error-pagina .frame-225 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 9.19%;
+  justify-content: center;
+  left: 12.50%;
+  position: absolute;
+  top: 26.52%;
+  width: 15.94%;
+}
+
+.x06u4606-error-pagina .profiel-menu-gesloten-3 {
+  align-self: stretch;
+  background-color: var(--link-water);
+  display: flex;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.x06u4606-error-pagina .group-256 {
+  background-color: var(--link-water);
+  border-radius: 26px;
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  height: 50px;
+  left: 206px;
+  position: absolute;
+  top: 917px;
+  width: 465px;
+}
+
+.x06u4606-error-pagina .profiel-menu-gesloten-4 {
+  align-items: center;
+  border-radius: 13px;
+  gap: 10px;
+  justify-content: center;
+  padding: 13px;
+  position: relative;
+}

@@ -1,0 +1,691 @@
+/* screen - 06u4602-branches */
+
+.x06u4602-branches {
+  background-color: #99c7e0;
+  min-height: 3392px;
+  min-width: 1920px;
+  position: relative;
+  width: 100%;
+}
+
+.x06u4602-branches .rono-it-achtergrond-blauw-rgb-3 {
+  height: 797px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.x06u4602-branches .profiel-menu-gesloten-1 {
+  background-color: var(--blue-whale);
+  display: inline-flex;
+  flex: 1;
+  width: 138px;
+}
+
+.x06u4602-branches .profiel-menu-gesloten-2 {
+  background-color: var(--blue-whale);
+  display: inline-flex;
+  flex: 1;
+  width: 133px;
+}
+
+.x06u4602-branches .logo {
+  aspect-ratio: 2.62;
+  background-image: url(../img/rono-it-logo---tagline-rgb-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 66px;
+  left: 874px;
+  position: absolute;
+  top: 34px;
+  width: 173px;
+}
+
+.x06u4602-branches .title {
+  left: 240px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 172px;
+  white-space: nowrap;
+  width: 1054px;
+}
+
+.x06u4602-branches .rectangle-47 {
+  background-color: var(--link-water);
+  height: 1234px;
+  left: 0;
+  position: absolute;
+  top: 1581px;
+  width: 1920px;
+}
+
+.x06u4602-branches .group-247 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  display: flex;
+  flex-direction: column;
+  height: 243px;
+  left: 1021px;
+  position: absolute;
+  top: 1564px;
+  width: 343px;
+}
+
+.x06u4602-branches .rectangle-21 {
+  background-color: var(--celeste);
+  border-radius: 26px 26px 0px 0px;
+  height: 193px;
+}
+
+.x06u4602-branches .group-228 {
+  height: 50px;
+  position: relative;
+  width: 345px;
+}
+
+.x06u4602-branches .rectangle-24 {
+  background-color: var(--alabaster);
+  border-radius: 0px 0px 26px 26px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 343px;
+}
+
+.x06u4602-branches .transport-logisitek {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  width: 305px;
+}
+
+.x06u4602-branches .group-258 {
+  display: flex;
+  flex-direction: column;
+  gap: 9.9px;
+  height: 164px;
+  left: 1021px;
+  position: absolute;
+  top: 1371px;
+  width: 664px;
+}
+
+.x06u4602-branches .voorbeeld-uit-onze-praktijk {
+  height: 47.08px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 604.15px;
+}
+
+.x06u4602-branches .bij-een-logistiek-be {
+  height: 107px;
+  letter-spacing: 0;
+  line-height: 27px;
+  width: 660px;
+}
+
+.x06u4602-branches .rectangle-32 {
+  background-color: var(--celeste);
+  border-radius: 26px;
+  height: 426px;
+  left: 240px;
+  position: absolute;
+  top: 1381px;
+  width: 660px;
+}
+
+.x06u4602-branches .je-werk-ligt-stil-j {
+  left: 272px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 245px;
+  width: 565px;
+}
+
+.x06u4602-branches .frame-225 {
+  height: 53px;
+  left: 272px;
+  position: absolute;
+  top: 438px;
+  width: 306px;
+}
+
+.x06u4602-branches .group-253 {
+  height: 149px;
+  left: 240px;
+  position: absolute;
+  top: 575px;
+  width: 1445px;
+}
+
+.x06u4602-branches .group-268 {
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  height: 849px;
+  left: 236px;
+  position: absolute;
+  top: 1891px;
+  width: 1446px;
+}
+
+.x06u4602-branches .group-226 {
+  display: flex;
+  margin-left: 3px;
+  width: 651px;
+}
+
+.x06u4602-branches .bekijk-alle-branches {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 649px;
+}
+
+.x06u4602-branches .group-251 {
+  height: 784px;
+  position: relative;
+  width: 1452px;
+}
+
+.x06u4602-branches .group-247-1 {
+  height: 775px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 1443px;
+}
+
+.x06u4602-branches .group-246 {
+  height: 775px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1441px;
+}
+
+.x06u4602-branches .group-231 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  display: flex;
+  flex-direction: column;
+  height: 243px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 343px;
+}
+
+.x06u4602-branches .financile-sector {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  width: 305px;
+}
+
+.x06u4602-branches .group-243 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  display: flex;
+  flex-direction: column;
+  height: 243px;
+  left: 0;
+  position: absolute;
+  top: 266px;
+  width: 343px;
+}
+
+.x06u4602-branches .consulting {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  width: 305px;
+}
+
+.x06u4602-branches .group-240 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  display: flex;
+  flex-direction: column;
+  height: 243px;
+  left: 366px;
+  position: absolute;
+  top: 0;
+  width: 343px;
+}
+
+.x06u4602-branches .productie-industrie {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  width: 305px;
+}
+
+.x06u4602-branches .group-244 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  display: flex;
+  flex-direction: column;
+  height: 243px;
+  left: 732px;
+  position: absolute;
+  top: 266px;
+  width: 343px;
+}
+
+.x06u4602-branches .overheid-publieke-sector {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  width: 305px;
+}
+
+.x06u4602-branches .group-246-1 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  display: flex;
+  flex-direction: column;
+  height: 243px;
+  left: 367px;
+  position: absolute;
+  top: 532px;
+  width: 343px;
+}
+
+.x06u4602-branches .telecommunicatie-media {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  width: 305px;
+}
+
+.x06u4602-branches .group-247-2 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  display: flex;
+  flex-direction: column;
+  height: 243px;
+  left: 733px;
+  position: absolute;
+  top: 532px;
+  width: 343px;
+}
+
+.x06u4602-branches .automotive {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  width: 305px;
+}
+
+.x06u4602-branches .group-245 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  display: flex;
+  flex-direction: column;
+  height: 243px;
+  left: 1098px;
+  position: absolute;
+  top: 266px;
+  width: 343px;
+}
+
+.x06u4602-branches .horeca-hospitality {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  width: 305px;
+}
+
+.x06u4602-branches .group-242 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  display: flex;
+  flex-direction: column;
+  height: 243px;
+  left: 733px;
+  position: absolute;
+  top: 0;
+  width: 343px;
+}
+
+.x06u4602-branches .onderwijs {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  width: 305px;
+}
+
+.x06u4602-branches .group-225 {
+  display: flex;
+  height: 48px;
+  left: 1099px;
+  position: absolute;
+  top: 674px;
+  width: 298px;
+}
+
+.x06u4602-branches .profiel-menu-gesloten-3 {
+  background-color: var(--salomie);
+  display: inline-flex;
+  height: 48px;
+  margin-top: 0;
+  width: 298px;
+}
+
+.x06u4602-branches .waar-kunnen-we-je-mee-helpen {
+  letter-spacing: 0;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 272px;
+}
+
+.x06u4602-branches .group-254 {
+  display: flex;
+  height: 38px;
+  left: 1100px;
+  position: absolute;
+  top: 604px;
+  width: 345px;
+}
+
+.x06u4602-branches .hoe-kunnen-we-jouw-w {
+  height: 37.52px;
+  letter-spacing: 0;
+  line-height: 24px;
+  width: 343px;
+}
+
+.x06u4602-branches .in-dui-magna-posuer {
+  align-items: center;
+  display: flex;
+  height: 243px;
+  justify-content: center;
+  left: 371px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 266px;
+  width: 343px;
+}
+
+.x06u4602-branches .in-dui-magna-posuer-1 {
+  left: 1101px;
+  top: 0;
+}
+
+.x06u4602-branches .in-dui-magna-posuer-2 {
+  left: 0;
+  top: 541px;
+}
+
+.x06u4602-branches .group-266 {
+  height: 132px;
+  left: 1031px;
+  position: absolute;
+  top: 727px;
+  width: 475px;
+}
+
+.x06u4602-branches .group-255 {
+  height: 489px;
+  left: 240px;
+  position: absolute;
+  top: 868px;
+  width: 1439px;
+}
+
+.x06u4602-branches .onze-it-diensten-in-gewone-taal {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 649px;
+}
+
+.x06u4602-branches .toegang-tot-je-gegev {
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 58px;
+  width: 594px;
+}
+
+.x06u4602-branches .toegang-tot-je-gegev-1 {
+  left: 838px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 58px;
+  width: 595px;
+}
+
+.x06u4602-branches .group-90 {
+  display: flex;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 34px;
+}
+
+.x06u4602-branches .profiel {
+  align-items: center;
+  background-color: var(--link-water);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  height: 34px;
+  padding: 8px;
+  position: relative;
+  width: 34px;
+}
+
+.x06u4602-branches .oog10x-1 {
+  aspect-ratio: 1;
+  height: 18px;
+  object-fit: cover;
+  position: relative;
+  width: 18px;
+}
+
+.x06u4602-branches .group-95 {
+  display: flex;
+  height: 34px;
+  left: 783px;
+  position: absolute;
+  top: 56px;
+  width: 34px;
+}
+
+.x06u4602-branches .group-91 {
+  display: flex;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 137px;
+  width: 34px;
+}
+
+.x06u4602-branches .group-96 {
+  display: flex;
+  height: 34px;
+  left: 783px;
+  position: absolute;
+  top: 137px;
+  width: 34px;
+}
+
+.x06u4602-branches .group-92 {
+  display: flex;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 218px;
+  width: 34px;
+}
+
+.x06u4602-branches .group-97 {
+  display: flex;
+  height: 34px;
+  left: 783px;
+  position: absolute;
+  top: 218px;
+  width: 34px;
+}
+
+.x06u4602-branches .group-93 {
+  display: flex;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 299px;
+  width: 34px;
+}
+
+.x06u4602-branches .group-98 {
+  display: flex;
+  height: 34px;
+  left: 783px;
+  position: absolute;
+  top: 299px;
+  width: 34px;
+}
+
+.x06u4602-branches .group-94 {
+  display: flex;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 380px;
+  width: 34px;
+}
+
+.x06u4602-branches .group-99 {
+  display: flex;
+  height: 34px;
+  left: 783px;
+  position: absolute;
+  top: 380px;
+  width: 34px;
+}
+
+.x06u4602-branches .component-1 {
+  background-image: url(../img/rono-it-achtergrond-blauw-rgb-3-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 577px;
+  left: 0;
+  position: absolute;
+  top: 2815px;
+  width: 1920px;
+}
+
+.x06u4602-branches .x3f6bd76d-24c0-2648-4f7a-5c61faf211db-1 {
+  aspect-ratio: 2.22;
+  height: 78px;
+  left: 67.71%;
+  object-fit: cover;
+  position: absolute;
+  top: 294px;
+  width: 9.03%;
+}
+
+.x06u4602-branches .x34474454-29b6-4873-9d1e-dd1434fdf18c-1 {
+  aspect-ratio: 2.22;
+  height: 77px;
+  left: 68.54%;
+  object-fit: cover;
+  position: absolute;
+  top: 384px;
+  width: 8.91%;
+}
+
+.x06u4602-branches .x33f7f3f4-d3a3-62db-0eff-22e8fffcfaed-1 {
+  aspect-ratio: 2.22;
+  height: 77px;
+  left: 69.69%;
+  object-fit: cover;
+  position: absolute;
+  top: 124px;
+  width: 8.91%;
+}
+
+.x06u4602-branches .x0f1a7654-951c-6193-1139-23db606c07bb-1 {
+  aspect-ratio: 2.22;
+  height: 78px;
+  left: 69.32%;
+  object-fit: cover;
+  position: absolute;
+  top: 206px;
+  width: 9.03%;
+}
+
+.x06u4602-branches .frame-225-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 9.19%;
+  justify-content: center;
+  left: 12.50%;
+  position: absolute;
+  top: 26.52%;
+  width: 15.94%;
+}
+
+.x06u4602-branches .profiel-menu-gesloten-4 {
+  align-self: stretch;
+  background-color: var(--link-water);
+  display: flex;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.x06u4602-branches .group-256 {
+  background-color: var(--link-water);
+  border-radius: 26px;
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  height: 50px;
+  left: 217px;
+  position: absolute;
+  top: 996px;
+  width: 465px;
+}
+
+.x06u4602-branches .in-dui-magna-posuer-3 {
+  align-items: center;
+  display: flex;
+  height: 243px;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  width: 343px;
+}
+
+.x06u4602-branches .profiel-menu-gesloten-5 {
+  align-items: center;
+  border-radius: 13px;
+  gap: 10px;
+  justify-content: center;
+  padding: 13px;
+  position: relative;
+}

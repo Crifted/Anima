@@ -1,0 +1,544 @@
+/* screen - 06u4601-homepage */
+
+.x06u4601-homepage {
+  background-color: var(--link-water);
+  cursor: pointer;
+  min-height: 2951px;
+  min-width: 1920px;
+  position: relative;
+  width: 100%;
+}
+
+.x06u4601-homepage .rono-it-achtergrond-blauw-rgb-1 {
+  aspect-ratio: 2.22;
+  height: 863px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1920px;
+}
+
+.x06u4601-homepage .vector {
+  height: 1066px;
+  left: 788px;
+  position: absolute;
+  top: 0;
+  width: 1132px;
+}
+
+.x06u4601-homepage .profiel-menu-gesloten-1 {
+  background-color: var(--blue-whale);
+  display: inline-flex;
+  flex: 1;
+  width: 138px;
+}
+
+.x06u4601-homepage .profiel-menu-gesloten-2 {
+  background-color: var(--blue-whale);
+  display: inline-flex;
+  flex: 1;
+  width: 133px;
+}
+
+.x06u4601-homepage .logo {
+  aspect-ratio: 2.62;
+  background-image: url(../img/rono-it-logo---tagline-rgb-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 66px;
+  left: 874px;
+  position: absolute;
+  top: 34px;
+  width: 173px;
+}
+
+.x06u4601-homepage .slider {
+  height: 278px;
+  left: 240px;
+  position: absolute;
+  top: 342px;
+  width: 709px;
+}
+
+.x06u4601-homepage .group-5-1 {
+  display: flex;
+  height: 19.06%;
+  left: 7.05%;
+  position: absolute;
+  top: 80.94%;
+  width: 47.11%;
+}
+
+.x06u4601-homepage .profiel-menu-gesloten-3 {
+  background-color: var(--blue-whale);
+  display: inline-flex;
+  flex: 1;
+  width: 334px;
+}
+
+.x06u4601-homepage .zo-maken-we-jouw-werk-makkelijker {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x06u4601-homepage .group-224 {
+  height: 80.94%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.56%;
+}
+
+.x06u4601-homepage .rono-it-maakt-transp {
+  height: 64.00%;
+  left: 7.01%;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  position: absolute;
+  top: 0;
+  width: 85.69%;
+}
+
+.x06u4601-homepage .gewoon-grip-op-je-p {
+  color: var(--blue-whale);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 41.78%;
+  left: 11.92%;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 58.22%;
+  width: 80.79%;
+}
+
+.x06u4601-homepage .rono-it-pijl-2 {
+  left: 0;
+}
+
+.x06u4601-homepage .rono-it-pijl-3 {
+  left: 96.49%;
+}
+
+.x06u4601-homepage .group-226 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 256px;
+  left: 240px;
+  position: absolute;
+  top: 934px;
+  width: 653px;
+}
+
+.x06u4601-homepage .over-rono-it-1 {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 594.08px;
+}
+
+.x06u4601-homepage .wij-zijn-rono-it-wi {
+  height: 198px;
+  letter-spacing: 0;
+  line-height: 27px;
+  width: 649px;
+}
+
+.x06u4601-homepage .we {
+  left: 240px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 992px;
+  width: 649px;
+}
+
+.x06u4601-homepage .group-247 {
+  background-color: var(--salomie);
+  display: flex;
+  flex-direction: column;
+  height: 947px;
+  left: 0;
+  position: absolute;
+  top: 1427px;
+  width: 1920px;
+}
+
+.x06u4601-homepage .group-238 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 168px;
+  margin-left: 240px;
+  margin-top: 71px;
+  width: 665px;
+}
+
+.x06u4601-homepage .wij-maken-jouw-werk-makkelijker {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 605.06px;
+}
+
+.x06u4601-homepage .iedereen-werkt-ander {
+  height: 110px;
+  letter-spacing: 0;
+  line-height: 27px;
+  width: 661px;
+}
+
+.x06u4601-homepage .group-246 {
+  height: 509px;
+  margin-left: 240px;
+  margin-top: 26px;
+  position: relative;
+  width: 1441px;
+}
+
+.x06u4601-homepage .group-231 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  height: 47.74%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23.80%;
+}
+
+.x06u4601-homepage .group-228 {
+  height: 20.58%;
+  left: 0;
+  position: absolute;
+  top: 79.42%;
+  width: 100.58%;
+}
+
+.x06u4601-homepage .rectangle-24 {
+  background-color: var(--alabaster);
+  border-radius: 0px 0px 26px 26px;
+  height: 100%;
+  width: 99.42%;
+}
+
+.x06u4601-homepage .transport-logisitek {
+  height: 54.00%;
+  left: 4.70%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22.00%;
+  width: 88.30%;
+}
+
+.x06u4601-homepage .rectangle-21 {
+  background-color: var(--celeste);
+  border-radius: 26px 26px 0px 0px;
+  height: 79.42%;
+  width: 100%;
+}
+
+.x06u4601-homepage .group-243 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  height: 47.74%;
+  left: 0;
+  position: absolute;
+  top: 52.26%;
+  width: 23.80%;
+}
+
+.x06u4601-homepage .consulting {
+  height: 54.00%;
+  left: 4.70%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22.00%;
+  width: 88.30%;
+}
+
+.x06u4601-homepage .group-240 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  height: 47.74%;
+  left: 25.40%;
+  position: absolute;
+  top: 0;
+  width: 23.80%;
+}
+
+.x06u4601-homepage .financile-sector {
+  height: 54.00%;
+  left: 4.70%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22.00%;
+  width: 88.30%;
+}
+
+.x06u4601-homepage .rectangle-21-1 {
+  height: 79.42%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.x06u4601-homepage .group-244 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  height: 47.74%;
+  left: 25.40%;
+  position: absolute;
+  top: 52.26%;
+  width: 23.80%;
+}
+
+.x06u4601-homepage .overheid-publieke-sector {
+  height: 54.00%;
+  left: 4.70%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22.00%;
+  width: 88.30%;
+}
+
+.x06u4601-homepage .group-241 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  height: 47.74%;
+  left: 50.80%;
+  position: absolute;
+  top: 0;
+  width: 23.80%;
+}
+
+.x06u4601-homepage .productie-industrie {
+  height: 54.00%;
+  left: 4.70%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22.00%;
+  width: 88.30%;
+}
+
+.x06u4601-homepage .group-245 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  height: 47.74%;
+  left: 50.80%;
+  position: absolute;
+  top: 52.26%;
+  width: 23.80%;
+}
+
+.x06u4601-homepage .horeca-hospitality {
+  height: 54.00%;
+  left: 4.70%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22.00%;
+  width: 88.30%;
+}
+
+.x06u4601-homepage .group-246-1 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  height: 47.74%;
+  left: 76.20%;
+  position: absolute;
+  top: 52.26%;
+  width: 23.80%;
+}
+
+.x06u4601-homepage .telecommunicatie-media {
+  height: 54.00%;
+  left: 4.70%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22.00%;
+  width: 88.30%;
+}
+
+.x06u4601-homepage .group-242 {
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  height: 47.74%;
+  left: 76.20%;
+  position: absolute;
+  top: 0;
+  width: 23.80%;
+}
+
+.x06u4601-homepage .onderwijs {
+  height: 54.00%;
+  left: 4.70%;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22.00%;
+  width: 88.30%;
+}
+
+.x06u4601-homepage .group-225 {
+  display: flex;
+  margin-left: 854px;
+  margin-top: 36.0px;
+  width: 211px;
+}
+
+.x06u4601-homepage .profiel-menu-gesloten-4 {
+  background-color: var(--blue-whale);
+  display: inline-flex;
+  height: 53px;
+  margin-top: 0;
+  width: 211px;
+}
+
+.x06u4601-homepage .bekijk-meer-branches {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x06u4601-homepage .component-1 {
+  background-image: url(../img/rono-it-achtergrond-blauw-rgb-3-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 577px;
+  left: 0;
+  position: absolute;
+  top: 2374px;
+  width: 1920px;
+}
+
+.x06u4601-homepage .x3f6bd76d-24c0-2648-4f7a-5c61faf211db-1 {
+  aspect-ratio: 2.22;
+  height: 78px;
+  left: 67.71%;
+  object-fit: cover;
+  position: absolute;
+  top: 294px;
+  width: 9.03%;
+}
+
+.x06u4601-homepage .x34474454-29b6-4873-9d1e-dd1434fdf18c-1 {
+  aspect-ratio: 2.22;
+  height: 77px;
+  left: 68.54%;
+  object-fit: cover;
+  position: absolute;
+  top: 384px;
+  width: 8.91%;
+}
+
+.x06u4601-homepage .x33f7f3f4-d3a3-62db-0eff-22e8fffcfaed-1 {
+  aspect-ratio: 2.22;
+  height: 77px;
+  left: 69.69%;
+  object-fit: cover;
+  position: absolute;
+  top: 124px;
+  width: 8.91%;
+}
+
+.x06u4601-homepage .x0f1a7654-951c-6193-1139-23db606c07bb-1 {
+  aspect-ratio: 2.22;
+  height: 78px;
+  left: 69.32%;
+  object-fit: cover;
+  position: absolute;
+  top: 206px;
+  width: 9.03%;
+}
+
+.x06u4601-homepage .frame-225 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 9.19%;
+  justify-content: center;
+  left: 12.50%;
+  position: absolute;
+  top: 26.52%;
+  width: 15.94%;
+}
+
+.x06u4601-homepage .profiel-menu-gesloten-5 {
+  align-self: stretch;
+  background-color: var(--link-water);
+  display: flex;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.x06u4601-homepage .group-255 {
+  background-color: var(--link-water);
+  border-radius: 26px;
+  box-shadow: 0px 0px 5px #1e1e1e40;
+  height: 50px;
+  left: 253px;
+  position: absolute;
+  top: 999px;
+  width: 465px;
+}
+
+.x06u4601-homepage .group-225-1 {
+  display: flex;
+  height: 53px;
+  left: 240px;
+  position: absolute;
+  top: 1290px;
+  width: 306px;
+}
+
+.x06u4601-homepage .profiel-menu-gesloten-6 {
+  background-color: var(--salomie);
+  display: inline-flex;
+  height: 53px;
+  width: 306px;
+}
+
+.x06u4601-homepage .daag-ons-uit-met-jouw-vraagstuk-1 {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  width: 280px;
+}
+
+.x06u4601-homepage .profiel-menu-gesloten-7 {
+  align-items: center;
+  border-radius: 13px;
+  gap: 10px;
+  justify-content: center;
+  padding: 13px;
+  position: relative;
+}
+
+.x06u4601-homepage .rectangle {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.x06u4601-homepage .rono-it-pijl {
+  aspect-ratio: 1.72;
+  height: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 104px;
+  width: 2.95%;
+}

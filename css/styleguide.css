@@ -1,0 +1,98 @@
+:root { 
+  --alabaster: #fafcfc;
+  --black: #000000;
+  --blue-whale: #08274c;
+  --blue-whale-2: #08274c80;
+  --blue-whale-3: #08274ca8;
+  --celeste: #cccccc;
+  --link-water: #d6e8f5;
+  --salomie: #f7d987;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+  --font-size-s: 14px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 32px;
+  --font-size-xxxl: 48px;
+ 
+  --font-family-ubuntu: "Ubuntu", Helvetica;
+}
+.ubuntu-bold-blue-whale-20px {
+  color: var(--blue-whale);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-normal-blue-whale-18px {
+  color: var(--blue-whale);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-bold-blue-whale-32px {
+  color: var(--blue-whale);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-bold-alabaster-18px {
+  color: var(--alabaster);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-bold-blue-whale-24px {
+  color: var(--blue-whale);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-bold-blue-whale-18px {
+  color: var(--blue-whale);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-normal-blue-whale-18px-2 {
+  color: var(--blue-whale-2);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-bold-blue-whale-48px {
+  color: var(--blue-whale);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-normal-blue-whale-14px {
+  color: var(--blue-whale);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-blue-whale-18px-3 {
+  color: var(--blue-whale-3);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
