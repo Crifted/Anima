@@ -1,544 +1,999 @@
-/* screen - 06u4601-homepage */
-
-.x06u4601-homepage {
-  background-color: var(--link-water);
-  cursor: pointer;
-  min-height: 2951px;
-  min-width: 1920px;
-  position: relative;
+.element-homepage {
+  background-color: #d6e8f5;
   width: 100%;
+  min-width: 1920px;
+  min-height: 2951px;
+  position: relative;
 }
 
-.x06u4601-homepage .rono-it-achtergrond-blauw-rgb-1 {
-  aspect-ratio: 2.22;
-  height: 863px;
-  left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 1px;
+.element-homepage .rono-IT-achtergrond {
   width: 1920px;
-}
-
-.x06u4601-homepage .vector {
-  height: 1066px;
-  left: 788px;
+  height: 869px;
+  aspect-ratio: 2.22;
   position: absolute;
   top: 0;
-  width: 1132px;
+  left: 0;
+  object-fit: cover;
 }
 
-.x06u4601-homepage .profiel-menu-gesloten-1 {
-  background-color: var(--blue-whale);
+.element-homepage .vector {
+  position: absolute;
+  top: 0;
+  left: 786px;
+  width: 1134px;
+  height: 1061px;
+}
+
+.element-homepage .menu {
+  position: absolute;
+  top: 40px;
+  left: 1281px;
+  width: 400px;
+  height: 53px;
+}
+
+.element-homepage .group {
+  position: absolute;
+  width: 26.25%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+}
+
+.element-homepage .profiel-menu {
+  display: inline-flex;
+  flex: 1;
+  width: 105px;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 13px;
+  background-color: #08274c;
+  border-radius: 13px;
+}
+
+.element-homepage .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 700;
+  color: #fafcfc;
+  font-size: 18px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.element-homepage .profiel-menu-wrapper {
+  position: absolute;
+  width: 34.50%;
+  height: 100%;
+  top: 0;
+  left: 29.25%;
+  display: flex;
+}
+
+.element-homepage .div-wrapper {
   display: inline-flex;
   flex: 1;
   width: 138px;
+  background-color: #08274c;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 13px;
+  border-radius: 13px;
 }
 
-.x06u4601-homepage .profiel-menu-gesloten-2 {
-  background-color: var(--blue-whale);
+.element-homepage .div {
+  position: absolute;
+  width: 33.25%;
+  height: 100%;
+  top: 0;
+  left: 66.75%;
+  display: flex;
+}
+
+.element-homepage .profiel-menu-2 {
   display: inline-flex;
   flex: 1;
   width: 133px;
+  background-color: #08274c;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 13px;
+  border-radius: 13px;
 }
 
-.x06u4601-homepage .logo {
-  aspect-ratio: 2.62;
-  background-image: url(../img/rono-it-logo---tagline-rgb-1.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 66px;
-  left: 874px;
+.element-homepage .logo {
   position: absolute;
   top: 34px;
+  left: 874px;
   width: 173px;
+  height: 66px;
+  aspect-ratio: 2.62;
+  background-image: url(https://c.animaapp.com/tHLNiJeq/img/rono-it-logo---tagline-rgb-1-1@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
 }
 
-.x06u4601-homepage .slider {
-  height: 278px;
-  left: 240px;
+.element-homepage .slider {
   position: absolute;
   top: 342px;
+  left: 240px;
   width: 709px;
+  height: 278px;
 }
 
-.x06u4601-homepage .group-5-1 {
-  display: flex;
-  height: 19.06%;
-  left: 7.05%;
+.element-homepage .group-2 {
   position: absolute;
-  top: 80.94%;
   width: 47.11%;
+  height: 19.06%;
+  top: 80.94%;
+  left: 7.05%;
+  display: flex;
 }
 
-.x06u4601-homepage .profiel-menu-gesloten-3 {
-  background-color: var(--blue-whale);
+.element-homepage .profiel-menu-3 {
   display: inline-flex;
   flex: 1;
   width: 334px;
-}
-
-.x06u4601-homepage .zo-maken-we-jouw-werk-makkelijker {
-  letter-spacing: 0;
-  line-height: 27px;
-  margin-top: -1.00px;
+  background-color: #08274c;
   position: relative;
-  text-align: right;
-  white-space: nowrap;
-  width: fit-content;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 13px;
+  border-radius: 13px;
 }
 
-.x06u4601-homepage .group-224 {
-  height: 80.94%;
-  left: 0;
+.element-homepage .group-3 {
   position: absolute;
-  top: 0;
   width: 100.56%;
+  height: 80.94%;
+  top: 0;
+  left: 0;
 }
 
-.x06u4601-homepage .rono-it-maakt-transp {
+.element-homepage .rono-IT-maakt {
+  position: absolute;
+  width: 85.69%;
   height: 64.00%;
+  top: 0;
   left: 7.01%;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 700;
+  color: #08274c;
+  font-size: 48px;
   letter-spacing: 0;
   line-height: 57.6px;
-  position: absolute;
-  top: 0;
-  width: 85.69%;
 }
 
-.x06u4601-homepage .gewoon-grip-op-je-p {
-  color: var(--blue-whale);
-  font-family: var(--font-family-ubuntu);
-  font-size: var(--font-size-xl);
-  font-weight: 400;
+.element-homepage .gewoon-grip-op-je {
+  position: absolute;
+  width: 80.79%;
   height: 41.78%;
+  top: 58.22%;
   left: 11.92%;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 400;
+  color: #08274c;
+  font-size: 24px;
   letter-spacing: 0;
   line-height: 28.8px;
-  position: absolute;
-  top: 58.22%;
-  width: 80.79%;
 }
 
-.x06u4601-homepage .rono-it-pijl-2 {
+.element-homepage .rono-IT-pijl {
   left: 0;
+  position: absolute;
+  width: 5.07%;
+  top: 104px;
+  height: 36px;
+  aspect-ratio: 1.72;
+  object-fit: cover;
 }
 
-.x06u4601-homepage .rono-it-pijl-3 {
+.element-homepage .img {
   left: 96.49%;
+  position: absolute;
+  width: 5.07%;
+  top: 104px;
+  height: 36px;
+  aspect-ratio: 1.72;
+  object-fit: cover;
 }
 
-.x06u4601-homepage .group-226 {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  height: 256px;
-  left: 240px;
+.element-homepage .group-4 {
   position: absolute;
   top: 934px;
+  left: 240px;
   width: 653px;
+  height: 256px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
-.x06u4601-homepage .over-rono-it-1 {
+.element-homepage .text-wrapper-2 {
+  width: 594.08px;
   height: 48px;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 700;
+  color: #08274c;
+  font-size: 32px;
   letter-spacing: 0;
   line-height: normal;
-  width: 594.08px;
 }
 
-.x06u4601-homepage .wij-zijn-rono-it-wi {
-  height: 198px;
-  letter-spacing: 0;
-  line-height: 27px;
+.element-homepage .wij-zijn-rono-IT-wij {
   width: 649px;
-}
-
-.x06u4601-homepage .we {
-  left: 240px;
+  height: 198px;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 400;
+  color: #08274c;
+  font-size: 18px;
   letter-spacing: 0;
   line-height: 27px;
+}
+
+.element-homepage .text-wrapper-3 {
   position: absolute;
   top: 992px;
+  left: 240px;
   width: 649px;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 400;
+  color: #08274c;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
 }
 
-.x06u4601-homepage .group-247 {
-  background-color: var(--salomie);
-  display: flex;
-  flex-direction: column;
-  height: 947px;
-  left: 0;
+.element-homepage .group-5 {
   position: absolute;
   top: 1427px;
+  left: 0;
   width: 1920px;
+  height: 947px;
+  display: flex;
+  flex-direction: column;
+  background-image: url(https://c.animaapp.com/tHLNiJeq/img/rectangle-16.png);
+  background-size: 100% 100%;
 }
 
-.x06u4601-homepage .group-238 {
+.element-homepage .group-6 {
+  margin-left: 240px;
+  width: 665px;
+  height: 168px;
+  margin-top: 71px;
   display: flex;
   flex-direction: column;
   gap: 10px;
-  height: 168px;
-  margin-left: 240px;
-  margin-top: 71px;
-  width: 665px;
 }
 
-.x06u4601-homepage .wij-maken-jouw-werk-makkelijker {
+.element-homepage .p {
+  width: 605.06px;
   height: 48px;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 700;
+  color: #08274c;
+  font-size: 32px;
   letter-spacing: 0;
   line-height: normal;
-  width: 605.06px;
 }
 
-.x06u4601-homepage .iedereen-werkt-ander {
+.element-homepage .text-wrapper-4 {
+  width: 661px;
   height: 110px;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 400;
+  color: #08274c;
+  font-size: 18px;
   letter-spacing: 0;
   line-height: 27px;
-  width: 661px;
 }
 
-.x06u4601-homepage .group-246 {
-  height: 509px;
+.element-homepage .group-7 {
   margin-left: 240px;
-  margin-top: 26px;
-  position: relative;
   width: 1441px;
+  height: 509px;
+  position: relative;
+  margin-top: 26px;
 }
 
-.x06u4601-homepage .group-231 {
-  box-shadow: 0px 0px 5px #1e1e1e40;
-  height: 47.74%;
-  left: 0;
+.element-homepage .group-8 {
   position: absolute;
-  top: 0;
   width: 23.80%;
+  height: 47.74%;
+  top: 0;
+  left: 0;
+  box-shadow: 0px 0px 5px #1e1e1e40;
 }
 
-.x06u4601-homepage .group-228 {
-  height: 20.58%;
-  left: 0;
+.element-homepage .group-9 {
   position: absolute;
-  top: 79.42%;
   width: 100.58%;
+  height: 20.58%;
+  top: 79.42%;
+  left: 0;
 }
 
-.x06u4601-homepage .rectangle-24 {
-  background-color: var(--alabaster);
-  border-radius: 0px 0px 26px 26px;
-  height: 100%;
+.element-homepage .rectangle {
   width: 99.42%;
+  height: 100%;
+  background-color: #fafcfc;
+  border-radius: 0px 0px 26px 26px;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
-.x06u4601-homepage .transport-logisitek {
+.element-homepage .text-wrapper-5 {
+  position: absolute;
+  width: 88.30%;
   height: 54.00%;
+  top: 22.00%;
   left: 4.70%;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 700;
+  color: #08274c;
+  font-size: 20px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 22.00%;
-  width: 88.30%;
 }
 
-.x06u4601-homepage .rectangle-21 {
-  background-color: var(--celeste);
+.element-homepage .rectangle-2 {
+  width: 100%;
+  height: 79.42%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.element-homepage .group-10 {
+  position: absolute;
+  width: 23.80%;
+  height: 47.74%;
+  top: 52.26%;
+  left: 0;
+  box-shadow: 0px 0px 5px #1e1e1e40;
+}
+
+.element-homepage .rectangle-3 {
+  position: absolute;
+  width: 100%;
+  height: 79.42%;
+  top: 0;
+  left: 0;
+  background-color: #cccccc;
   border-radius: 26px 26px 0px 0px;
-  height: 79.42%;
-  width: 100%;
 }
 
-.x06u4601-homepage .group-243 {
-  box-shadow: 0px 0px 5px #1e1e1e40;
-  height: 47.74%;
-  left: 0;
+.element-homepage .group-11 {
   position: absolute;
-  top: 52.26%;
   width: 23.80%;
-}
-
-.x06u4601-homepage .consulting {
-  height: 54.00%;
-  left: 4.70%;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 22.00%;
-  width: 88.30%;
-}
-
-.x06u4601-homepage .group-240 {
-  box-shadow: 0px 0px 5px #1e1e1e40;
   height: 47.74%;
+  top: 0;
   left: 25.40%;
-  position: absolute;
-  top: 0;
-  width: 23.80%;
-}
-
-.x06u4601-homepage .financile-sector {
-  height: 54.00%;
-  left: 4.70%;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 22.00%;
-  width: 88.30%;
-}
-
-.x06u4601-homepage .rectangle-21-1 {
-  height: 79.42%;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100%;
-}
-
-.x06u4601-homepage .group-244 {
   box-shadow: 0px 0px 5px #1e1e1e40;
+}
+
+.element-homepage .group-12 {
+  position: absolute;
+  width: 23.80%;
   height: 47.74%;
+  top: 52.26%;
   left: 25.40%;
-  position: absolute;
-  top: 52.26%;
-  width: 23.80%;
-}
-
-.x06u4601-homepage .overheid-publieke-sector {
-  height: 54.00%;
-  left: 4.70%;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 22.00%;
-  width: 88.30%;
-}
-
-.x06u4601-homepage .group-241 {
   box-shadow: 0px 0px 5px #1e1e1e40;
-  height: 47.74%;
-  left: 50.80%;
+}
+
+.element-homepage .group-13 {
   position: absolute;
+  width: 23.80%;
+  height: 47.74%;
   top: 0;
-  width: 23.80%;
-}
-
-.x06u4601-homepage .productie-industrie {
-  height: 54.00%;
-  left: 4.70%;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 22.00%;
-  width: 88.30%;
-}
-
-.x06u4601-homepage .group-245 {
-  box-shadow: 0px 0px 5px #1e1e1e40;
-  height: 47.74%;
   left: 50.80%;
-  position: absolute;
-  top: 52.26%;
-  width: 23.80%;
-}
-
-.x06u4601-homepage .horeca-hospitality {
-  height: 54.00%;
-  left: 4.70%;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 22.00%;
-  width: 88.30%;
-}
-
-.x06u4601-homepage .group-246-1 {
   box-shadow: 0px 0px 5px #1e1e1e40;
-  height: 47.74%;
-  left: 76.20%;
+}
+
+.element-homepage .group-14 {
   position: absolute;
-  top: 52.26%;
   width: 23.80%;
-}
-
-.x06u4601-homepage .telecommunicatie-media {
-  height: 54.00%;
-  left: 4.70%;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 22.00%;
-  width: 88.30%;
-}
-
-.x06u4601-homepage .group-242 {
-  box-shadow: 0px 0px 5px #1e1e1e40;
   height: 47.74%;
-  left: 76.20%;
+  top: 52.26%;
+  left: 50.80%;
+  box-shadow: 0px 0px 5px #1e1e1e40;
+}
+
+.element-homepage .group-15 {
   position: absolute;
+  width: 23.80%;
+  height: 47.74%;
+  top: 52.26%;
+  left: 76.20%;
+  box-shadow: 0px 0px 5px #1e1e1e40;
+}
+
+.element-homepage .group-16 {
+  position: absolute;
+  width: 23.80%;
+  height: 47.74%;
   top: 0;
-  width: 23.80%;
+  left: 76.20%;
+  box-shadow: 0px 0px 5px #1e1e1e40;
 }
 
-.x06u4601-homepage .onderwijs {
-  height: 54.00%;
-  left: 4.70%;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 22.00%;
-  width: 88.30%;
-}
-
-.x06u4601-homepage .group-225 {
-  display: flex;
+.element-homepage .group-17 {
   margin-left: 854px;
-  margin-top: 36.0px;
   width: 211px;
+  margin-top: 36.0px;
+  display: flex;
 }
 
-.x06u4601-homepage .profiel-menu-gesloten-4 {
-  background-color: var(--blue-whale);
+.element-homepage .profiel-menu-4 {
   display: inline-flex;
-  height: 53px;
   margin-top: 0;
   width: 211px;
-}
-
-.x06u4601-homepage .bekijk-meer-branches {
-  letter-spacing: 0;
-  line-height: 27px;
-  margin-top: -1.00px;
+  height: 53px;
+  background-color: #08274c;
   position: relative;
-  text-align: right;
-  white-space: nowrap;
-  width: fit-content;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 13px;
+  border-radius: 13px;
 }
 
-.x06u4601-homepage .component-1 {
-  background-image: url(../img/rono-it-achtergrond-blauw-rgb-3-1.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 577px;
-  left: 0;
+.element-homepage .component {
   position: absolute;
   top: 2374px;
-  width: 1920px;
-}
-
-.x06u4601-homepage .x3f6bd76d-24c0-2648-4f7a-5c61faf211db-1 {
-  aspect-ratio: 2.22;
-  height: 78px;
-  left: 67.71%;
-  object-fit: cover;
-  position: absolute;
-  top: 294px;
-  width: 9.03%;
-}
-
-.x06u4601-homepage .x34474454-29b6-4873-9d1e-dd1434fdf18c-1 {
-  aspect-ratio: 2.22;
-  height: 77px;
-  left: 68.54%;
-  object-fit: cover;
-  position: absolute;
-  top: 384px;
-  width: 8.91%;
-}
-
-.x06u4601-homepage .x33f7f3f4-d3a3-62db-0eff-22e8fffcfaed-1 {
-  aspect-ratio: 2.22;
-  height: 77px;
-  left: 69.69%;
-  object-fit: cover;
-  position: absolute;
-  top: 124px;
-  width: 8.91%;
-}
-
-.x06u4601-homepage .x0f1a7654-951c-6193-1139-23db606c07bb-1 {
-  aspect-ratio: 2.22;
-  height: 78px;
-  left: 69.32%;
-  object-fit: cover;
-  position: absolute;
-  top: 206px;
-  width: 9.03%;
-}
-
-.x06u4601-homepage .frame-225 {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  height: 9.19%;
-  justify-content: center;
-  left: 12.50%;
-  position: absolute;
-  top: 26.52%;
-  width: 15.94%;
-}
-
-.x06u4601-homepage .profiel-menu-gesloten-5 {
-  align-self: stretch;
-  background-color: var(--link-water);
-  display: flex;
-  flex: 0 0 auto;
-  width: 100%;
-}
-
-.x06u4601-homepage .group-255 {
-  background-color: var(--link-water);
-  border-radius: 26px;
-  box-shadow: 0px 0px 5px #1e1e1e40;
-  height: 50px;
-  left: 253px;
-  position: absolute;
-  top: 999px;
-  width: 465px;
-}
-
-.x06u4601-homepage .group-225-1 {
-  display: flex;
-  height: 53px;
-  left: 240px;
-  position: absolute;
-  top: 1290px;
-  width: 306px;
-}
-
-.x06u4601-homepage .profiel-menu-gesloten-6 {
-  background-color: var(--salomie);
-  display: inline-flex;
-  height: 53px;
-  width: 306px;
-}
-
-.x06u4601-homepage .daag-ons-uit-met-jouw-vraagstuk-1 {
-  letter-spacing: 0;
-  line-height: 27px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: right;
-  width: 280px;
-}
-
-.x06u4601-homepage .profiel-menu-gesloten-7 {
-  align-items: center;
-  border-radius: 13px;
-  gap: 10px;
-  justify-content: center;
-  padding: 13px;
-  position: relative;
-}
-
-.x06u4601-homepage .rectangle {
   left: 0;
+  width: 1920px;
+  height: 577px;
+}
+
+.element-homepage .rono-IT-achtergrond-2 {
+  width: 100%;
+  height: 100.00%;
   position: absolute;
   top: 0;
+  left: 0;
+  object-fit: cover;
 }
 
-.x06u4601-homepage .rono-it-pijl {
-  aspect-ratio: 1.72;
-  height: 36px;
-  object-fit: cover;
+.element-homepage .group-18 {
   position: absolute;
-  top: 104px;
-  width: 2.95%;
+  width: 17.97%;
+  height: 13.52%;
+  top: 8.32%;
+  left: 12.50%;
+  display: flex;
+}
+
+.element-homepage .text-wrapper-6 {
+  flex: 1;
+  width: 343px;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 700;
+  color: #08274c;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 38.4px;
+}
+
+.element-homepage .branches-over-rono-wrapper {
+  position: absolute;
+  width: 17.97%;
+  height: 52.17%;
+  top: 8.84%;
+  left: 31.56%;
+  display: flex;
+}
+
+.element-homepage .branches-over-rono {
+  flex: 1;
+  width: 343px;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 400;
+  color: #08274c;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.element-homepage .span {
+  font-weight: 700;
+  line-height: 32px;
+}
+
+.element-homepage .text-wrapper-7 {
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.element-homepage .text-wrapper-8 {
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.element-homepage .text-wrapper-9 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+}
+
+.element-homepage .bezoek-ons-schutweg-wrapper {
+  position: absolute;
+  width: 17.97%;
+  height: 13.00%;
+  top: 8.84%;
+  left: 50.62%;
+  display: flex;
+}
+
+.element-homepage .bezoek-ons-schutweg {
+  flex: 1;
+  width: 343px;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 400;
+  color: #08274c;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.element-homepage .text-wrapper-10 {
+  font-weight: 700;
+}
+
+.element-homepage .text-wrapper-11 {
+  font-size: 18px;
+}
+
+.element-homepage .deze-certificaten-wrapper {
+  position: absolute;
+  width: 17.97%;
+  height: 13.00%;
+  top: 9.01%;
+  left: 69.69%;
+  display: flex;
+}
+
+.element-homepage .deze-certificaten {
+  flex: 1;
+  width: 343px;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 700;
+  color: #08274c;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.element-homepage .element {
+  position: absolute;
+  width: 9.03%;
+  top: 294px;
+  left: 67.71%;
+  height: 78px;
+  aspect-ratio: 2.22;
+  object-fit: cover;
+}
+
+.element-homepage .element-b {
+  position: absolute;
+  width: 8.91%;
+  top: 384px;
+  left: 68.54%;
+  height: 77px;
+  aspect-ratio: 2.22;
+  object-fit: cover;
+}
+
+.element-homepage .text-wrapper-12 {
+  position: absolute;
+  width: 24.22%;
+  height: 7.28%;
+  top: 92.72%;
+  left: 37.86%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 400;
+  color: #08274c;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-homepage .bel-of-schrijf-ons {
+  position: absolute;
+  width: 17.86%;
+  height: 13.00%;
+  top: 26.34%;
+  left: 50.62%;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 400;
+  color: #08274c;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.element-homepage .volg-ons-linkedin {
+  position: absolute;
+  width: 17.86%;
+  height: 10.92%;
+  top: 47.14%;
+  left: 50.62%;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 400;
+  color: #08274c;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.element-homepage .element-fff-da-db {
+  position: absolute;
+  width: 8.91%;
+  top: 124px;
+  left: 69.69%;
+  height: 77px;
+  aspect-ratio: 2.22;
+  object-fit: cover;
+}
+
+.element-homepage .element-fa-c {
+  position: absolute;
+  width: 9.03%;
+  top: 206px;
+  left: 69.32%;
+  height: 78px;
+  aspect-ratio: 2.22;
+  object-fit: cover;
+}
+
+.element-homepage .frame {
+  display: flex;
+  flex-direction: column;
+  width: 15.94%;
+  height: 9.19%;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: absolute;
+  top: 26.52%;
+  left: 12.50%;
+}
+
+.element-homepage .profiel-menu-5 {
+  display: flex;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #d6e8f5;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 13px;
+  border-radius: 13px;
+}
+
+.element-homepage .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 700;
+  color: #08274c;
+  font-size: 18px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.element-homepage .group-19 {
+  position: absolute;
+  top: 999px;
+  left: 253px;
+  width: 465px;
+  height: 50px;
+  background-color: #d6e8f5;
+  border-radius: 26px;
+  box-shadow: 0px 0px 5px #1e1e1e40;
+}
+
+.element-homepage .text-wrapper-14 {
+  position: absolute;
+  width: 93.12%;
+  height: 52.00%;
+  top: 22.00%;
+  left: 3.44%;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 400;
+  color: #08274ca8;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.element-homepage .group-20 {
+  position: absolute;
+  top: 1290px;
+  left: 240px;
+  width: 306px;
+  height: 53px;
+  background-image: url(https://c.animaapp.com/tHLNiJeq/img/profiel-menu-gesloten.svg);
+  background-size: 100% 100%;
+}
+/* Original CSS code should be injected here */
+
+.element-homepage .group a,
+.element-homepage .profiel-menu-wrapper a,
+.element-homepage .div a {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+}
+
+.element-homepage .group a:hover .profiel-menu,
+.element-homepage .profiel-menu-wrapper a:hover .div-wrapper,
+.element-homepage .div a:hover .profiel-menu-2 {
+  background-color: #0a3159;
+}
+
+.element-homepage .group a:focus,
+.element-homepage .profiel-menu-wrapper a:focus,
+.element-homepage .div a:focus {
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+  border-radius: 13px;
+}
+
+.element-homepage .rono-IT-pijl,
+.element-homepage .img {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.element-homepage .rono-IT-pijl img,
+.element-homepage .img img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.element-homepage .rono-IT-pijl:hover,
+.element-homepage .img:hover {
+  opacity: 0.8;
+}
+
+.element-homepage .rono-IT-pijl:focus,
+.element-homepage .img:focus {
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+.element-homepage .group-2 a {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+}
+
+.element-homepage .group-2 a:hover .profiel-menu-3 {
+  background-color: #0a3159;
+}
+
+.element-homepage .group-2 a:focus {
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+  border-radius: 13px;
+}
+
+.element-homepage .group-17 a {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+}
+
+.element-homepage .group-17 a:hover .profiel-menu-4 {
+  background-color: #0a3159;
+}
+
+.element-homepage .group-17 a:focus {
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+  border-radius: 13px;
+}
+
+.element-homepage .branches-over-rono {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.element-homepage .branches-over-rono li {
+  margin-bottom: 8px;
+}
+
+.element-homepage .branches-over-rono li:nth-child(1),
+.element-homepage .branches-over-rono li:nth-child(2),
+.element-homepage .branches-over-rono li:nth-child(3) {
+  font-weight: 700;
+  line-height: 32px;
+}
+
+.element-homepage .branches-over-rono li:nth-child(4) {
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.element-homepage .branches-over-rono li:nth-child(5),
+.element-homepage .branches-over-rono li:nth-child(6),
+.element-homepage .branches-over-rono li:nth-child(7) {
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.element-homepage .branches-over-rono a {
+  color: #08274c;
+  text-decoration: none;
+}
+
+.element-homepage .branches-over-rono a:hover {
+  text-decoration: underline;
+}
+
+.element-homepage .branches-over-rono a:focus {
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.element-homepage .bel-of-schrijf-ons a,
+.element-homepage .volg-ons-linkedin a {
+  color: #08274c;
+  text-decoration: none;
+}
+
+.element-homepage .bel-of-schrijf-ons a:hover,
+.element-homepage .volg-ons-linkedin a:hover {
+  text-decoration: underline;
+}
+
+.element-homepage .bel-of-schrijf-ons a:focus,
+.element-homepage .volg-ons-linkedin a:focus {
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.element-homepage .frame a {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+}
+
+.element-homepage .frame a:hover .profiel-menu-5 {
+  background-color: #c0dae8;
+}
+
+.element-homepage .frame a:focus {
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+  border-radius: 13px;
+}
+
+.element-homepage .group-19 {
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+}
+
+.element-homepage .group-19 label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.element-homepage .search-input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  background: transparent;
+  font-family: "Ubuntu", Helvetica;
+  font-weight: 400;
+  color: #08274c;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+  padding: 0;
+}
+
+.element-homepage .search-input::placeholder {
+  color: #08274ca8;
+}
+
+.element-homepage .search-input:focus {
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+  border-radius: 26px;
+}
+
+.element-homepage .group-20 {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.element-homepage .group-20:hover {
+  opacity: 0.8;
+}
+
+.element-homepage .group-20:focus {
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+.element-homepage .group-8,
+.element-homepage .group-10,
+.element-homepage .group-11,
+.element-homepage .group-12,
+.element-homepage .group-13,
+.element-homepage .group-14,
+.element-homepage .group-15,
+.element-homepage .group-16 {
+  transition: transform 0.2s ease;
+}
+
+.element-homepage .group-8:hover,
+.element-homepage .group-10:hover,
+.element-homepage .group-11:hover,
+.element-homepage .group-12:hover,
+.element-homepage .group-13:hover,
+.element-homepage .group-14:hover,
+.element-homepage .group-15:hover,
+.element-homepage .group-16:hover {
+  transform: translateY(-4px);
+}
+
+.element-homepage .group-8:focus-within,
+.element-homepage .group-10:focus-within,
+.element-homepage .group-11:focus-within,
+.element-homepage .group-12:focus-within,
+.element-homepage .group-13:focus-within,
+.element-homepage .group-14:focus-within,
+.element-homepage .group-15:focus-within,
+.element-homepage .group-16:focus-within {
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+  border-radius: 26px;
 }
